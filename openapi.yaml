@@ -6,7 +6,7 @@ info:
 servers:
   - url: http://localhost:8290
 paths:
-  /services/Accounts:
+  /services/Accounts/flights_customers:
     get:
       responses:
         '200':
