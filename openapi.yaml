@@ -6,7 +6,7 @@ info:
 servers:
   - url: http://localhost:8290
 paths:
-  /services/AccountsDataService:
+  /services/Accounts:
     get:
       responses:
         '200':
